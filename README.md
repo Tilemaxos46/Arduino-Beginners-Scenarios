@@ -9,7 +9,7 @@ Scenarios were designed with:
 * Tinkercad
 * Arduino Uno
 * Breadboard
-* LM34
+* LM35
 * Led and RGB Led
 * Photoresistor
 * Button
